@@ -1,4 +1,4 @@
-# 🚍 AI-Powered Public Transport Crowd & Delay Prediction System
+## AI-Powered Public Transport Crowd & Delay Prediction System
 
 ## 📌 Project Overview
 This project is a web-based intelligent system that predicts public transport crowd levels and expected delays based on user inputs such as source, destination, bus number, time, day, and weather conditions. It helps commuters plan their travel efficiently by avoiding overcrowded buses and estimating possible delays using rule-based logic or machine learning techniques.

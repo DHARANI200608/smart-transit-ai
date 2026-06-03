@@ -1,4 +1,6 @@
 ## SmartTransit-AI
+## PROBLEM STATEMENT
+Overcrowded public transport and unexpected delays make daily commuting inefficient. This project uses AI to predict crowd levels and delays, helping passengers plan smarter journeys.
 ## 📌 Project Overview
 AI-Powered Public Transport Crowd & Delay Prediction System
 

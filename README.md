@@ -20,5 +20,27 @@ The system combines frontend, backend, and AI logic to simulate a smart public t
 - Delay estimation based on conditions  
 - Route-based input system  
 - Simple and interactive web interface  
--Fallback logic for unknown routes  
+-Fallback logic for unknown routes
+## User Identification
+- Daily Commuters
+- Students
+- Office Employees
+- Public Transport Passengers
+
+## Module Identification
+1. User Interface Module
+2. Route & Data Management Module
+3. Crowd Prediction Module
+4. Delay Prediction Module
+5. Recommendation Module
+
+## Daily Progress - upto Day-4 
+- Finalized project topic
+- Created GitHub repository
+- Defined project objectives
+- Identified users and modules
+
+## Next Action
+- Design system architecture
+- Create dataset structure
 

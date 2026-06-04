@@ -40,7 +40,4 @@ The system combines frontend, backend, and AI logic to simulate a smart public t
 - Defined project objectives
 - Identified users and modules
 
-## Next Action
-- Design system architecture
-- Create dataset structure
 

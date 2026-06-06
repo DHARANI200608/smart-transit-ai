@@ -34,10 +34,3 @@ The system combines frontend, backend, and AI logic to simulate a smart public t
 4. Delay Prediction Module
 5. Recommendation Module
 
-## Daily Progress - upto Day-4 
-- Finalized project topic
-- Created GitHub repository
-- Defined project objectives
-- Identified users and modules
-
-
